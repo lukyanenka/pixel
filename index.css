@@ -1,0 +1,80 @@
+.title {
+    background-color: rgb(4,164,172);
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+    width: 149px;
+    height: 30px; 
+    font-weight: bold;
+    margin-left: 30px; 
+}
+
+.text {
+    color: white;
+    font-size: 12px;
+    font-family: "Arial";
+    text-align: center;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.1); 
+  
+
+}
+
+.name {
+    font-size: 12px;
+    font-family: "Arial";
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    text-align: left;
+    width: 116px;
+    height: 158px;
+    margin-left: 30px;
+    top: 50px;
+}
+ 
+body {
+    background-color: rgb(235, 244, 244);
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.background {
+    background-color: white;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+    width: 320px;
+    height: 370px;
+    
+}
+
+.box1 {
+    height: 28px;
+    width: 255px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.box2 {
+    height: 28px;
+    width: 255px;
+    margin-left: 30px;
+    margin-top: 22px;
+}
+
+.box3 {
+    height: 28px;
+    width: 255px;
+    margin-left: 30px;
+    margin-top: 22px;
+}
+
+.buttom {
+    border-radius: 4px;
+    background-color: rgb(4,164,172);
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.2),inset 0px 1px 2px 0px rgba(255, 255, 255, 0.004);
+    width: 260px;
+    height: 45px;
+    font-size: 16px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.1);
+}
+  
